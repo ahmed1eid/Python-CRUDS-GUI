@@ -1,0 +1,15 @@
+# Virtual Environment
+.CRMVENV/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Databases (Important: don't track your local DB)
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
